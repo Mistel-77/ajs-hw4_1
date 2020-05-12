@@ -1,7 +1,3 @@
-import CheckInputNumber from './check';
+import check from './check';
 
-CheckInputNumber(70);
-CheckInputNumber(0);
-CheckInputNumber(-5);
-CheckInputNumber('mistake');
-CheckInputNumber('');
+check(50);
